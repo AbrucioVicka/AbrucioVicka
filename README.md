@@ -8,7 +8,7 @@
             <li><img width="40" height="40" alt="GIF" src="https://i.gifer.com/origin/6a/6a215df49524df23bbb9ebbd2da7b45f_w200.webp"/>I'm currently on the lookout for job opportunities to apply my knowledge and skills.
             <li><img width="45" height="45" alt="GIF" src="https://i.gifer.com/origin/a6/a695a35d34cf317a067ccae7b148f909_w200.webp"/> Funfact: I'm ambidextrous and I've broken all the fingers on my hands and feet.
 
-### Reach me on
+### Reach me  <img width="45" height="45" alt="GIF" src="https://i.gifer.com/origin/6b/6bb945ccc320c4f0d73535aa73c9a98a_w200.webp"/>
 <a href="https://www.linkedin.com/in/abruciovicka" target="_blank">
   <img align="left" alt="Vicka's LinkedIn" width="40px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg"/>
 </a>
