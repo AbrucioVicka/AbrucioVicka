@@ -1,7 +1,7 @@
  # Hello World!  <img width="60" height="30" alt="GIF" src="https://i.gifer.com/origin/de/de73dd8aa5f5611a54147ad077d77413_w200.webp"/>
 </br>
 <div style="overflow: hidden;">
-    <img align="right" width="440" height="238" alt="GIF" src="https://i.gifer.com/origin/af/afffb0305a8836588e957bf09918d039_w200.webp"/>
+    <img align="right" width="300" height="300" alt="GIF" src="https://i.gifer.com/origin/6b/6bb945ccc320c4f0d73535aa73c9a98a_w200.webp"/>
     <div>
         <ul>
             <li>Just a curious girl seeking ways to program solutions for real-life problems.</li>
